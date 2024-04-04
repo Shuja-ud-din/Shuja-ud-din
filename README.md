@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo19625
-Fork on GitHub5892
 <h1 align="center">Hi 👋, I'm Shuja ud Din</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
@@ -9,12 +5,22 @@ Fork on GitHub5892
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shuja123dev" alt="shuja123dev" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/shujashuja11" target="blank"><img src="https://img.shields.io/twitter/follow/shujashuja11?logo=twitter&style=for-the-badge" alt="shujashuja11" /></a> </p>
+
+- 🌱 I’m currently learning **AI, ML & Data Science**
+
+- 💬 Ask me about **React, NodeJs, Typescript**
+
+- 📫 How to reach me **shuja1339@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codepen.io/shujadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="shujadev" height="30" width="40" /></a>
 <a href="https://dev.to/shujauddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shujauddin" height="30" width="40" /></a>
+<a href="https://twitter.com/shujashuja11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shujashuja11" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shuja-ud-din-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shuja-ud-din-dev" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/shuja-ud-din" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shuja-ud-din" height="30" width="40" /></a>
+<a href="https://codesandbox.com/shuja1339" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="shuja1339" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,27 +32,3 @@ Fork on GitHub5892
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shuja123dev&" alt="shuja123dev" /></p>
 
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
